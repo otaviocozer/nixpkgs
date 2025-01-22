@@ -16971,6 +16971,12 @@
     githubId = 25278;
     name = "Otavio Salvador";
   };
+  otaviocozer = {
+      name = "Otavio Ferreira Cozer";
+      email = "otaviocozer22@gmail.com";
+      github = "otaviocozer";
+      githubId = 38982699;
+  };
   otini = {
     name = "Olivier Nicole";
     email = "olivier@chnik.fr";
